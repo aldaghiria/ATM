@@ -6,11 +6,18 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ATM/Program.cs">
+    <Files>
+      <File FileName="ATM/Program.cs" Line="31" Column="27" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ATM" expanded="True" selected="True" />
+          <Node name="ATM">
+            <Node name="ATM" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
